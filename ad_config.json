@@ -2,28 +2,28 @@
   "ads": {
     "enabled": true,
     "provider": "admob",
-    "testMode": false,
+    "testMode": true,
 
     "banner": {
       "enabled": true,
-      "unitId": "ca-app-pub-6179556445410335/3601492753"
+      "unitId": "ca-app-pub-3940256099942544/9214589741"
     },
 
     "interstitial": {
       "enabled": true,
-      "unitId": "ca-app-pub-6179556445410335/8662247748",
+      "unitId": "ca-app-pub-3940256099942544/1033173712",
       "interval": 3,
-      "minimumSeconds": 60
+      "minimumSeconds": 30
     },
 
     "native": {
       "enabled": true,
-      "unitId": "ca-app-pub-6179556445410335/7349166070"
+      "unitId": "ca-app-pub-3940256099942544/2247696110"
     },
 
     "appOpen": {
       "enabled": true,
-      "unitId": "ca-app-pub-6179556445410335/4565275972"
+      "unitId": "ca-app-pub-3940256099942544/9257395921"
     },
 
     "testDevices": [
